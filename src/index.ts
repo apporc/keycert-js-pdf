@@ -16,7 +16,7 @@ import {
     TimePointType,
     UInt32,
     UInt32Type,
-} from '@greymass/eosio'
+} from '@wharfkit/antelope'
 import {KeyCertificate} from '@greymass/keycert'
 
 const black = grayscale(0)
